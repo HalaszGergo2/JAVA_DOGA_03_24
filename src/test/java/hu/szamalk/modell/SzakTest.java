@@ -8,7 +8,7 @@ import java.util.List;
 
 class SzakTest {
     Szak szak;
-    
+
     @BeforeEach
     void ini(){
         szak = new Szak("egy szak neve");
